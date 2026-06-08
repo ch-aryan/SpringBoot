@@ -20,9 +20,11 @@ public class RestapisApplication {
 //        ServiceClassExample bean = obj.getBean(ServiceClassExample.class);
 //        bean.thisMethManuallyInvoking();
 
-        ConfigurableApplicationContext run = SpringApplication.run(RestapisApplication.class, args);
-        Telusko1 bean = run.getBean(Telusko1.class);
-        System.out.println(bean.courseEnroll(1111));
+//        ConfigurableApplicationContext run = SpringApplication.run(RestapisApplication.class, args);
+//        Telusko1 bean = run.getBean(Telusko1.class);
+//        System.out.println(bean.courseEnroll(1111));
+
+        SpringApplication.run(RestapisApplication.class, args);
     }
 
 }
