@@ -6,7 +6,7 @@
 
     <h1>Welcome JSP</h1>
 
-    <h2>${message}</h2>
+    <h2>${wish}</h2>
 
 </body>
 </html>

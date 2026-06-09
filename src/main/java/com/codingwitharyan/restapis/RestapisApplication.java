@@ -1,11 +1,13 @@
 package com.codingwitharyan.restapis;
 
-import com.codingwitharyan.restapis.UnderStandingSpring.With.Dsa1;
-import com.codingwitharyan.restapis.UnderStandingSpring.With.Telusko1;
+//import com.codingwitharyan.restapis.UnderStandingSpring.With.Dsa1;
+//import com.codingwitharyan.restapis.UnderStandingSpring.With.Telusko1;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.ConfigurableApplicationContext;
+//import org.springframework.context.ApplicationContext;
+//import org.springframework.context.ConfigurableApplicationContext;
+
+
 
 @SpringBootApplication
 public class RestapisApplication {
